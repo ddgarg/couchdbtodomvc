@@ -1,0 +1,5 @@
+{
+	"name": "couchapp",
+	"description": "Todo MVC CouchDB app using Backbone and localstorage",
+	"fetch_uri": "git://github.com/ddgarg/couchdbtodomvc.git"
+}
